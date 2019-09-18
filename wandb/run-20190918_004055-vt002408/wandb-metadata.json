@@ -1,0 +1,27 @@
+{
+    "root": "/home/john/Documents/Programming/tensorflow2_learning",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "git@github.com:joaogui1/tensorflow2_learning.git",
+        "commit": "3957e076ba43665117d7e2609792e97b809787cc"
+    },
+    "email": "joaoguilhermearujo@gmail.com",
+    "codeSaved": true,
+    "startedAt": "2019-09-18T00:48:10.648742",
+    "host": "lab",
+    "username": "john",
+    "executable": "/home/john/anaconda3/envs/tf2/bin/python",
+    "os": "Linux-5.0.0-27-generic-x86_64-with-debian-buster-sid",
+    "python": "3.7.3",
+    "cpu_count": 4,
+    "args": [
+        "-f",
+        "/run/user/1000/jupyter/kernel-aa7c45b4-1f64-4164-9b3c-ef026919ade4.json"
+    ],
+    "state": "running",
+    "jobType": null,
+    "mode": "run",
+    "name": "scarlet-dew-3",
+    "project": "tensorflow2_learning",
+    "heartbeatAt": "2019-09-18T00:48:38.206243"
+}

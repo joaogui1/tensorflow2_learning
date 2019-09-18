@@ -1,0 +1,45 @@
+{
+    "graph": {
+        "_type": "graph",
+        "edges": [
+            [
+                "simple_rnn_input",
+                "simple_rnn"
+            ]
+        ],
+        "nodes": [
+            {
+                "id": "simple_rnn_input",
+                "name": "simple_rnn_input",
+                "class_name": "InputLayer",
+                "output_shape": [
+                    [
+                        null,
+                        20,
+                        1
+                    ]
+                ],
+                "num_parameters": 0
+            },
+            {
+                "id": "simple_rnn",
+                "name": "simple_rnn",
+                "class_name": "SimpleRNN",
+                "output_shape": [
+                    null,
+                    1
+                ],
+                "num_parameters": 3
+            }
+        ],
+        "format": "keras"
+    },
+    "loss": 11.9147208029935,
+    "val_mae": 12.53175449371338,
+    "epoch": 0,
+    "mae": 11.914709091186523,
+    "_runtime": 13.683748960494995,
+    "val_loss": 12.531752635424809,
+    "_step": 0,
+    "_timestamp": 1568767335.901819
+}
