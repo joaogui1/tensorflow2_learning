@@ -1,0 +1,26 @@
+{
+    "root": "/home/john/Documents/Programming/tensorflow2_learning",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "git@github.com:joaogui1/tensorflow2_learning.git",
+        "commit": "5e74cb4d60a1551efd6de44254218e7f23926dc7"
+    },
+    "email": "joaoguilhermearujo@gmail.com",
+    "startedAt": "2019-09-18T00:23:43.365162",
+    "host": "lab",
+    "username": "john",
+    "executable": "/home/john/anaconda3/envs/tf2/bin/python",
+    "os": "Linux-5.0.0-27-generic-x86_64-with-debian-buster-sid",
+    "python": "3.7.3",
+    "cpu_count": 4,
+    "args": [
+        "-f",
+        "/run/user/1000/jupyter/kernel-f9c89921-8525-4097-a7dd-a04406192999.json"
+    ],
+    "state": "running",
+    "jobType": null,
+    "mode": "run",
+    "name": "azure-music-2",
+    "project": "tensorflow2_learning",
+    "heartbeatAt": "2019-09-18T00:23:44.604140"
+}
