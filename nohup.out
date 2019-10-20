@@ -1,0 +1,4 @@
+
+(emacs:31239): Gtk-WARNING **: 17:56:07.352: Theme parsing error: gtk.css:1235:84: not a number
+
+(emacs:338): Gtk-WARNING **: 18:12:51.293: Theme parsing error: gtk.css:1235:84: not a number
